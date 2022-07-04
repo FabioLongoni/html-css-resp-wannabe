@@ -129,12 +129,12 @@ img {
  ************************************************/
 
 
-@media (max-width: 768px) {
+@media all and (max-width: 768px) {
     .container {
         width: 100%;
     }
-    .why-us .col-left {
+    .col-left {
         width: 30%;
     }
-
 }
+
