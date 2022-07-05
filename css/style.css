@@ -181,3 +181,11 @@ img {
         margin-top: 50px;
     }       
 }   
+
+/* bonus */
+
+@media all and (max-width: 1160px) {
+    .container {
+        width: 100%;
+    }
+}
