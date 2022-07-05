@@ -171,6 +171,13 @@ img {
         font-size: 20px;
     }
     .steps {
-        margin-bottom:0 ;
-
-}
+        margin-bottom:0;
+    } 
+    .why-us .col-left {
+        width: 100%;
+    }
+    .why-us .col-right {
+        width: 85%;
+        margin-top: 50px;
+    }       
+}   
